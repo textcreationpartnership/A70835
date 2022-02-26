@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Poem on the accession of Their Royal Highnesses the Prince and Princess of Orange to the Imperial Crown of England being a paraphrase on the 45 Psalm.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70835</idno>
+            <idno type="STC">Wing P2686</idno>
+            <idno type="STC">ESTC R7175</idno>
+            <idno type="EEBO-CITATION">12027811</idno>
+            <idno type="OCLC">ocm 12027811</idno>
+            <idno type="VID">52685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70835)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52685)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:3, 873:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Poem on the accession of Their Royal Highnesses the Prince and Princess of Orange to the Imperial Crown of England being a paraphrase on the 45 Psalm.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Incorrectly identified as Wing P2704A at reel position 873:5; Wing P2704A gives title as: A poem on the succession of Their Royal Highnesses the Prince and Princess of Orange to the Imperial Crown of England.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in University of Pennsylvania Library and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+               <term>Bible. --  O.T. --  Psalms XLV --  Paraphrases, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:52685:1"/>
+            <pb n="1" facs="tcp:52685:1" rendition="simple:additions"/>
+            <head>A POEM ON THE ACCESSION OF THEIR Royal Highneſſes THE <hi>Prince and Princeſs of Orange</hi> TO THE Imperial Crown of <hi>ENGLAND;</hi> Being a Paraphraſe on the 45 <hi>PSALM.</hi>
+            </head>
+            <lg n="1">
+               <head>I.</head>
+               <l>NO, 'tis too <hi>big;</hi> I longer can't contain<note place="margin">My Heart is inditing <hi>(Lat. Con eructavit)</hi> a good Matter.</note>
+               </l>
+               <l>Within my <hi>labouring</hi> Breaſt,</l>
+               <l>With the <hi>unweldy Thought</hi> oppreſt,</l>
+               <l>The mighty <hi>Pleaſure</hi> mixt with mighty <hi>Pain.</hi>
+               </l>
+               <l>My <hi>Heart's</hi> too narrow far to hold it there:</l>
+               <l>In ſuch <hi>unequal</hi> Limits pent,</l>
+               <l>It ſearches round, and will have vent,</l>
+               <l>And <hi>means</hi> the open Air.</l>
+               <l>Thence it breaks, and thence it flies,</l>
+               <l>To my <hi>Lips,</hi> and to my <hi>Eyes;</hi>
+               </l>
+               <l>My <hi>Harp</hi> ſhall play, my <hi>Lips</hi> ſhall ſing,<note place="margin">I ſpeak of the Things which I have made, touching the King.</note>
+               </l>
+               <l>Of Happy <hi>Salem</hi>'s peaceful <hi>King.</hi>
+               </l>
+               <l>Nor do's my willing <hi>Tongue</hi> the Task refuſe.<note place="margin">— My Tongue is the Pen of a rea<g ref="char:EOLhyphen"/>dy Writer.</note>
+               </l>
+               <l>Away it runs as ſwift as <hi>Wind:</hi>
+               </l>
+               <l>Nor do's it flag behind my <hi>Muſe;</hi>
+               </l>
+               <l>Nor needs it ſtay fit <hi>VVords</hi> to chuſe,</l>
+               <l>But leaves almoſt, my <hi>heavier Thought</hi> behind.</l>
+            </lg>
+            <pb n="2" facs="tcp:52685:2"/>
+            <lg n="2">
+               <head>II.</head>
+               <l>Fairer than all the <hi>Beauteous Pride</hi>
+                  <note place="margin">Thou art fairer than the Chil<g ref="char:EOLhyphen"/>dren of Men.</note>
+               </l>
+               <l>That ever ſprung from <hi>Adams</hi> ſide!</l>
+               <l>By thoſe bright <hi>Youths</hi> out-ſhin'd alone,</l>
+               <l>Who ever Guard the <hi>Eternals</hi> Throne.</l>
+               <l>Fair in thoſe <hi>Virtues</hi> which thy <hi>Mind</hi> adorn;</l>
+               <l>Fairer than the riſing <hi>Morn!</hi>
+                  <note place="margin">
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>races <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> poured into thy Lips.</note>
+               </l>
+               <l>Poſſeſt of each Illuſtrious <hi>Grace<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>Which in dazling <hi>Purple</hi> ſhine,</l>
+               <l>(Purple, once <hi>Royal,</hi> now <hi>Divine,</hi>)</l>
+               <l>Around thy <hi>Lips,</hi> around thy <hi>Face!</hi>
+               </l>
+               <l>
+                  <hi>Favourite</hi> of thoſe <hi>above,</hi>
+                  <note place="margin">Therefore God hath bleſſed thee for ever.</note>
+               </l>
+               <l>Of <hi>Earth</hi> the <hi>Joy,</hi> of Heav'n the <hi>Love.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Ariſe Young <hi>Hero!</hi> from thy Throne ariſe!</l>
+               <l>
+                  <hi>Heav'n</hi> calls Thee out, and bids prepare<note place="margin">Gird thy Sword upon thy Thigh, O moſt mighty!</note>
+               </l>
+               <l>For a juſt, a needful <hi>VVar,</hi>
+               </l>
+               <l>To ſcourge its <hi>own,</hi> and <hi>Iſraels</hi> Enemies.</l>
+               <l>See the <hi>Lawrels</hi> hanging high!</l>
+               <l>See the <hi>Angels</hi> ſtooping down</l>
+               <l>With a brighter <hi>Starry Crown,</hi>
+               </l>
+               <l>And upward point to hov'ring <hi>Victory!</hi>
+               </l>
+               <l>Gird thy Sword upon thy <hi>Thigh,</hi>
+               </l>
+               <l>In all thy <hi>Royal Glories</hi> dreſt,<note place="margin">With thy Glory and thy Ma<g ref="char:EOLhyphen"/>jeſty.</note>
+               </l>
+               <l>
+                  <hi>Thy Self</hi> the greateſt and the beſt;</l>
+               <l>In all thy Kingly <hi>Majeſty;</hi>
+               </l>
+               <l>— See, with what a Pomp he goes!<note place="margin">And in thy Majeſty ride Proſ<g ref="char:EOLhyphen"/>p<gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Truth, and M<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>kneſs, and Righ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eouſneſs.</note>
+               </l>
+               <l>How triumphantly do's ride,</l>
+               <l>
+                  <hi>Truth</hi> and <hi>Meekneſs</hi> by his ſide,</l>
+               <l>And <hi>Juſtice</hi> to confound his Foes!</l>
+               <l>Say! who can ſuch a Force oppoſe?</l>
+               <l>Still ſuch <hi>Guards</hi> wou'd <hi>Princes</hi> uſe,</l>
+               <l>None beſides they need to chuſe.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>But ſince <hi>Kings,</hi> like <hi>God,</hi> muſt be</l>
+               <l>For <hi>Juſtice,</hi> not for <hi>Mercy</hi> fam'd alone;<note place="margin">And thy Right Hand ſhall teach thee terrible Things.</note>
+               </l>
+               <l>Since <hi>VViſe</hi> as well as <hi>Good<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>Is a fit Stile for <hi>Majeſty:</hi>
+               </l>
+               <l>And ſince the harden'd <hi>Rebels</hi> Blood</l>
+               <l>Still makes the ſtrongeſt <hi>Cement</hi> for a <hi>Throne:</hi>
+               </l>
+               <l>
+                  <hi>Learn,</hi> what thou well doſt <hi>Underſtand,</hi>
+               </l>
+               <l>
+                  <hi>Learn</hi> from thy own dread <hi>Right-hand;</hi>
+               </l>
+               <l>
+                  <hi>Learn</hi> from thence to act ſuch <hi>Things,</hi>
+               </l>
+               <l>As become offended <hi>Kings.</hi>
+               </l>
+               <l>— Yes: 'Tis done, already done:</l>
+               <l>For in vain they <hi>fly</hi> away;</l>
+               <l>Thy <hi>Arrows fly</hi> more ſwift than they:<note place="margin">Thine Arrows are ſharp in the Hearts of the Kings Enemies, whereby the People fall under thee.</note>
+               </l>
+               <l>
+                  <hi>Fate</hi> and <hi>Thee</hi> they cannot ſhun.</l>
+               <l>Through their faithleſs <hi>Hearts</hi> they glide;</l>
+               <l>Down they fall and <hi>bite</hi> the <hi>Ground,</hi>
+               </l>
+               <l>Down they fall with all their <hi>Pride:</hi>
+               </l>
+               <l>Scattering <hi>imperfect Curſes</hi> round.</l>
+               <l>Vainly they <hi>curſe</hi> as they did <hi>flee:</hi>
+               </l>
+               <l>Vainly they <hi>curſe</hi> their <hi>Fate</hi> and <hi>Thee.</hi>
+               </l>
+               <l>Both <hi>alike</hi> their <hi>Curſes</hi> find:</l>
+               <l>Looſe, and Weak, and Short, and Dead,</l>
+               <l>Long before they reach thy <hi>Head,</hi>
+               </l>
+               <l>And ſcatter'd into <hi>VVind.</hi>
+               </l>
+            </lg>
+            <pb n="3" facs="tcp:52685:2"/>
+            <lg n="5">
+               <head>V.</head>
+               <l>For ever ſhall thy <hi>Rightful Throne</hi> endure;<note place="margin">Thy Throne is for ever and ever.</note>
+               </l>
+               <l>Thy <hi>Rightful Scepter</hi> now for ever is ſecure.</l>
+               <l>Thy <hi>Throne</hi> on <hi>Juſtice</hi> firmly fixt;<note place="margin">The Scepter of thy Kingdom is a right Scepter. Thou lovedſt Righte<g ref="char:EOLhyphen"/>ouſneſs and hateſt Wickedneſs.</note>
+               </l>
+               <l>A <hi>Baſis</hi> ne're can fail or fade,</l>
+               <l>VVith guileful <hi>Arts</hi> unmixt.</l>
+               <l>By <hi>Inclination,</hi> not by <hi>Intereſt, Juſt,</hi>
+               </l>
+               <l>Thou <hi>Fraud</hi> and <hi>VVrong</hi> doſt hate,</l>
+               <l>And he who knows thy <hi>Heart,</hi> who is thy <hi>Truſt</hi>
+                  <note place="margin">Therefore God, even thy God, hath anointed thee with the Oyl of Gladneſs above thy Fellows.</note>
+               </l>
+               <l>VVho do's ſecure thy <hi>State;</hi>
+               </l>
+               <l>VVith <hi>Holy Oyl</hi> he do's thy <hi>Temples</hi> Crown,</l>
+               <l>Nor muſt <hi>S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uls Vial</hi> thy low Meaſure be;</l>
+               <l>For in the largeſt Quantity,</l>
+               <l>It thence on all thy <hi>Royal Robes</hi> flowes gently down:</l>
+               <l>Thy <hi>Royal Robes</hi> whence gladſom <hi>Odors</hi> flow,<note place="margin">All thy Garments ſmell of Myrrh, Aloes and Caſſia, out of the Ivory Palaces whereby they have made thee glad.</note>
+               </l>
+               <l>VVhence <hi>Show'rs</hi> of precious Pearls diſtill,</l>
+               <l>VVhen from thy <hi>VVardrobe</hi> thou doſt go,</l>
+               <l>Like trickling fragrant <hi>Dew</hi> from <hi>Hermons</hi> fruitful Hill.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Ev'n haughty <hi>Princes</hi> do not Scorn,<note place="margin">Kings Daughters were among thy Honourable Women. <g ref="char:V">Ʋ</g>pon thy right Hand did ſtand the Queen, in Gold of <hi>Ophir.</hi>
+                  </note>
+               </l>
+               <l>(<hi>Honour</hi> enough, enough of <hi>State,</hi>)</l>
+               <l>Their <hi>Daughters</hi> ſhou'd thy <hi>Courts</hi> adorn</l>
+               <l>On thee, and on thy <hi>Queen</hi> to wait:</l>
+               <l>Thy <hi>Queen,</hi> array'd in Gold, leſs bright,</l>
+               <l>She <hi>takes</hi> not, but ſhe <hi>lends</hi> it <hi>light.</hi>
+               </l>
+               <l>O <hi>Egypts Glory</hi> once! now <hi>Salems Pride!</hi>
+               </l>
+               <l>Incline thy <hi>Royal Ear!</hi>
+                  <note place="margin">Hearken, O Daughter, and con<g ref="char:EOLhyphen"/>ſider! Incline thine Ear! forget alſo thine own People and thy <hi>Fathers</hi> Houſe!</note>
+               </l>
+               <l>Thy faithful <hi>ſuppliants</hi> hear,</l>
+               <l>And every little <hi>weakneſs</hi> caſt aſide!</l>
+               <l>Let no <hi>fond</hi> Thoughts for <hi>Egypt</hi> ſtill remain!</l>
+               <l>Let <hi>Pharaoh</hi> and all his <hi>Gods</hi> forgotten be!</l>
+               <l>What is he now to Thee?</l>
+               <l>Forget 'em all, and break the <hi>ſervile</hi> Chain!</l>
+               <l>So ſhall thy Royal <hi>Lord</hi> become thy <hi>Slave:</hi>
+                  <note place="margin">So ſhall the King greatly deſire thy Beauty.</note>
+               </l>
+               <l>And ty'd in <hi>Loves</hi> ſoft Bands</l>
+               <l>Wrought by the <hi>Eyes</hi> and <hi>Hands,</hi>
+               </l>
+               <l>No other <hi>Freedom</hi> ever wiſh to have.</l>
+               <l>Thy Royal <hi>Lord;</hi> for thou doſt know<note place="margin">For he is thy Lord, and Wor<g ref="char:EOLhyphen"/>ſhip thou him.</note>
+               </l>
+               <l>What <hi>Reverence</hi> is his due;</l>
+               <l>And ſince he yields ſo <hi>much</hi> to you,</l>
+               <l>How <hi>much, much</hi> more to him thou ſtill muſt owe.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>So <hi>Tyres</hi> proud Daughter ſoon ſhall haſten o're<note place="margin">And the Daughter of <hi>Tyre</hi> ſhall be there with a Gift.</note>
+               </l>
+               <l>Pleas'd in thy <hi>Courts</hi> to find a room</l>
+               <l>With the beſt <hi>Trophies</hi> of her Noble <hi>Loom,</hi>
+               </l>
+               <l>With all the unvalu'd <hi>purple</hi> from her plunder'd <hi>ſhore;</hi>
+               </l>
+               <l>And <hi>humbly</hi> kneel, and <hi>humbly</hi> greet,</l>
+               <l>And caſt it at thy <hi>Feet.</hi>
+               </l>
+               <l>Whilſt other <hi>Gifts</hi> thy wealthy <hi>Subjects</hi> bring,</l>
+               <l>Worthy the <hi>Conſort</hi> of a <hi>King:</hi>
+                  <note place="margin">The Rich among the People ſhall intreat thy Favour.</note>
+               </l>
+               <l>Theſe from <hi>Gilead, Balm</hi> divine;</l>
+               <l>
+                  <hi>Spices</hi> theſe, were fit to burn</l>
+               <l>In the <hi>Arabian Wonders</hi> Urn:</l>
+               <l>Theſe the rich <hi>Engeddi</hi>'s Wine.</l>
+               <l>Thus they thy <hi>favour</hi> ſhall entreat,</l>
+               <l>And court thy <hi>ſmiles</hi> to make 'em <hi>Great.</hi>
+               </l>
+            </lg>
+            <pb n="4" facs="tcp:52685:3"/>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>'Tis not, alas! the <hi>Gold</hi> leſs bright<note place="margin">The Kings Daughter is all glo<g ref="char:EOLhyphen"/>rious within. Her clothing is of wrought Gold.</note>
+               </l>
+               <l>Which <hi>gives</hi> not, but <hi>receives</hi> thy Light:</l>
+               <l>That makes Great <hi>Pharaohs</hi> Daughter ſhine:</l>
+               <l>Thy better <hi>Glories</hi> are <hi>unſeen,</hi>
+               </l>
+               <l>And modeſtly with-draw <hi>within:</hi>
+               </l>
+               <l>That muſt be <hi>inviſible</hi> which is <hi>divine.</hi>
+               </l>
+               <l>Thoſe fair <hi>Virtues</hi> ay poſſeſs't</l>
+               <l>(Proud of ſuch a Spicey Neſt,)</l>
+               <l>Of thy <hi>white</hi> Soul, and ſcarce leſs <hi>beauteous</hi> Breaſt.</l>
+               <l>Say! what <hi>Robes</hi> ſhall we prepare</l>
+               <l>For <hi>Solomons Queen,</hi> and <hi>Pharoahs Heir?</hi>
+               </l>
+               <l>The <hi>needles</hi> all their <hi>Art</hi> ſhall try,<note place="margin">She ſhall be brought to the King in Rayments of Needle-Work: The Virgins her Companions that fol<g ref="char:EOLhyphen"/>low her ſhall be brought unto thee.</note>
+               </l>
+               <l>And thy daughters, <hi>Salem!</hi> vy</l>
+               <l>With the rich <hi>Embroidery</hi>
+               </l>
+               <l>Of the <hi>Fields,</hi> and of the <hi>Sky.</hi>
+               </l>
+               <l>A Crowd of <hi>Virgins,</hi> Chaſt, as Fair,</l>
+               <l>
+                  <hi>Beauties</hi> all, were ſhe not there</l>
+               <l>Her long-long <hi>Pomp</hi> in decent Order bear.</l>
+               <l>
+                  <hi>Unknown Gladneſs</hi> ſhall ariſe,<note place="margin">With Gladneſs, and rejoycing ſhall they be brought. They ſhall enter into the Kings Palace.</note>
+               </l>
+               <l>And around our <hi>Faces</hi> play,</l>
+               <l>
+                  <hi>Shine</hi> thro' all our <hi>Hearts,</hi> and <hi>Eyes,</hi>
+               </l>
+               <l>And never more away.</l>
+               <l>Where e're they come new <hi>Conqueſts</hi> theſe ſhall make,</l>
+               <l>And all our <hi>Palaces</hi> ſhall take:</l>
+               <l>Ah! who <hi>wou'd</hi> not, <hi>muſt</hi> not yield</l>
+               <l>When ſuch <hi>Beauty</hi> takes the <hi>Field?</hi>
+               </l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>O <hi>Egypts Glory</hi> once! look back no more</l>
+               <l>To headlong <hi>Niles</hi> uncertain Shore!</l>
+               <l>To <hi>Shilo</hi>'s ſofter Waters now</l>
+               <l>Thy <hi>Ears,</hi> and <hi>Inclinations</hi> bow!</l>
+               <l>Let <hi>Pharaoh</hi> and all his <hi>Gods</hi> forgotten be!<note place="margin">Inſtead of thy Fathers, ſhall be thy Children.</note>
+               </l>
+               <l>While thy glad <hi>Subjects</hi> wiſh and pray</l>
+               <l>For ſuch as long may <hi>Iſraels</hi> Scepter ſway,</l>
+               <l>And for a long-long <hi>Race</hi> of happy <hi>Kings</hi> from Thee;<note place="margin">Whom thou may'ſt make Prin<g ref="char:EOLhyphen"/>ces in all the Earth.</note>
+               </l>
+               <l>Who thro' the World may bear their <hi>Parents</hi> Name,</l>
+               <l>Heirs of their <hi>Vertues,</hi> and their <hi>Throne,</hi>
+               </l>
+               <l>And ſharers in their <hi>Fame,</hi>
+               </l>
+               <l>Their <hi>Victories</hi> to utmoſt <hi>Ind',</hi> and diſtant <hi>Ganges</hi> known.</l>
+               <l>Thro' all their far out-ſtretched Line<note place="margin">I will make thy name to be re<g ref="char:EOLhyphen"/>member'd in all Generations: Therefore ſhall the People praiſe thee for ever and ever.</note>
+               </l>
+               <l>Whilſt grateful <hi>Iſrael</hi> ſhall thy <hi>Glories</hi> raiſe</l>
+               <l>On lofty <hi>Pyramids</hi> of praiſe,</l>
+               <l>
+                  <hi>Thou</hi> in <hi>their Fame</hi> ſhalt ſhare, as <hi>they</hi> in <hi>thine.</hi>
+               </l>
+               <l>And, if a <hi>Verſe Eternity</hi> can give</l>
+               <l>Thou in my <hi>Verſe</hi> as in their <hi>Fame</hi> ſhalt ever live.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:52685:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
